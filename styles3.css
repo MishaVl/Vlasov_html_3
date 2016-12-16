@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  }
+.Wrapper {
+  margin: 50px;
+  font-family: Arial;
+  width: 1000px;
+  }
+.LeftMenu {
+  float: left;
+  border: 0;
+  width: 170px;
+  height: 520px;
+  padding: 20px 20px 10px 0px;
+  font-size: 10pt;
+  }
+li {
+  list-style-type: none;
+  border: 1px solid grey;
+  padding: 10px;
+  }
+.HeadMenu {
+  display: inline-block;
+  background-color: grey;
+  width: 100%;
+  height: 30px;
+  font-size: 11pt;
+  font-color: white;
+  padding-left: 10px;
+  }
+h1 {
+  padding: 30px 30px 30px 0px;
+  }
+.Upper {
+  display: inline-block;
+  width: 139px;
+  height: 22px;
+  vertical-align: middle;
+  font-color: white;
+  padding-top: 5px;
+  }
+.BottomMenu {
+  background-color: #DCDCDC;
+  width: 100%;
+  height: 30px;
+  font-size: 11pt;
+  padding-left: 10px;
+  }
+.Text {
+  padding: 10px 100px 10px 50px;
+  font-size: 11pt;
+  margin: 0px 0px 0px 190px;
+  }
+img {
+  align: center;
+  padding: 50px 158px;
+  border: 1px solid grey;
+  margin-top: 20px;
+  }
+.Bottom {
+  display: inline-block;
+  width: 120px;
+  height: 22px;
+  vertical-align: middle;
+  padding-top: 5px;
+  }
+.BottomRight {
+  display: inline-block;
+  width: 200px;
+  height: 22px;
+  vertical-align: middle;
+  padding-top: 5px;
+  padding-left: 300px;
+  }
